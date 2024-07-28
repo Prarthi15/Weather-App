@@ -22,8 +22,7 @@ This project is a weather application that uses the OpenWeatherMap API to displa
 - Dynamic background images and icons based on weather conditions.
 
 ## Demo
-
-![Weather App Screenshot](media/screenshot.png)
+![Uploading image.png…]()
 
 ## Installation
 
