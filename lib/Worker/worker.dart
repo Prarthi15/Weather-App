@@ -18,7 +18,7 @@ class worker {
   Future<void> getData() async {
     try {
       Response response = await get(Uri.parse(
-          "https://api.openweathermap.org/data/2.5/weather?q=$location&appid=f58af5b0e5382ae45e0ca60f09c03419"));
+          "Your Open Weather Api"));
       Map data = jsonDecode(response.body);
       print(response.body);
 
